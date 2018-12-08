@@ -1,0 +1,2 @@
+# systemic-sclerosis
+Systemic sclerosis (SSc) is a rare and serious autoimmune disease whose cause is not yet understood. It is characterized by excessive fibrosis in connective tissues, vasculopathy and immunological anomalies such as the occurrence of disease- and prognosis-associated circulating autoantibodies. This analysis was aimed at evaluating the expression profiles of cell-free plasma miRNAs in SSc and to characterize their correlation with disease subgroups (lcSSc and dcSSc) and with autoantibody profiles.
